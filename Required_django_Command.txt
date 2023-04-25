@@ -1,0 +1,29 @@
+// Use python  3.7 or above version to run this project.
+
+1. Install python from its official website: https://www.python.org/
+2. While installation process check mark the "pip" option.
+3. Setup Environment variable for python in your system
+4. Open Command Prompt and type "python --version". The python version is displayed on the Command Prompt.
+
+
+*Django Installation*
+Type command "pip install django"
+The new version of Django is installed in your system with its dependencies.
+
+
+*Command Used in Django*
+Open command Prompt and type "django-admin". The list of Django commands are displayed on command prompt.
+
+
+*Create new Project in Django*
+Open Command Prompt and type "django-admin startproject <APP_NAME>" and hit ENTER. The django project is created.
+Modify it as your needs.
+Also apply python manage.py runserver to check the project is running or not.
+and use command "python manage.py makemigration" and "python manage.py migrate"
+to transfer all the modules in the django default database i.e., dbsqlite3.
+
+===> TO view the django default database use DB Browser software. 
+
+
+*I HOPE THIS IS USEFUL FOR YOUR NEEDS*
+{{{{{THANK YOU}}}}}
